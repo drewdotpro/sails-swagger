@@ -8,6 +8,9 @@
 
 [swagger.io](http://swagger.io/) (v2.0) hook for Sails. The application's models, controllers, and routes are aggregated and transformed into a Swagger Document. Supports the Swagger 2.0 specification.
 
+#Note
+This is a port of the original, with ust enough changes to support a specific project
+
 ## Install
 
 ```sh
